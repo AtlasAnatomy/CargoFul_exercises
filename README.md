@@ -1,4 +1,4 @@
-# ![CargoFul Logo](logo.png) CargoFul Exercises Codebase
+# <img src="logo.png" alt="CargoFul Logo" width="75"/> CargoFul Exercises Codebase
 
 Welcome to the **CargoFul Technical Interview Exercises** repository! This project contains code solutions to analytical exercises provided by CargoFul. Each solution is structured to be easily reviewed, tested, and improved for future use or enhancement.
 
