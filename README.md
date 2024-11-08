@@ -1,9 +1,13 @@
-<h1>
-<div style="display: flex; align-items: center;">
-    <img src="./Assets/logo_1.png" alt="CargoFul Logo" width="75" style="margin-right: 10px;">
-    <span style="font-size: 2em; font-weight: bold;">CargoFul Exercises Codebase</span>
-</div>
-</h1>
+<table style=" width: 100%; border-collapse: collapse;">
+  <tr>
+    <td style="vertical-align: middle;">
+      <img src="./Assets/logo_1.png" alt="CargoFul Logo" width="75">
+    </td>
+    <td style="vertical-align: middle; padding-left: 10px;">
+      <h1 style="display: inline; font-size: 2em; font-weight: bold; margin: 0;">CargoFul Exercises Codebase</h1>
+    </td>
+  </tr>
+</table>
 
 Welcome to the **CargoFul Technical Interview Exercises** repository! This project contains code solutions to analytical exercises provided by CargoFul. Each solution is structured to be easily reviewed, tested, and improved for future use or enhancement.
 
