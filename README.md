@@ -17,7 +17,11 @@ Welcome to the **CargoFul Technical Interview Exercises** repository! This repos
     - [Exercise 1: Time Series Analysis and Forecasting](#exercise-1-time-series-analysis-and-forecasting)
     - [Exercise 2: Spatial Analytics](#exercise-2-spatial-analytics)
     - [Exercise 3: SQL](#exercise-3-sql)
+<<<<<<< HEAD
 3. [Getting Started](#getting-started)
+=======
+
+>>>>>>> deb6ada (Initial commit of Jupyter project, excluding data directory)
 ---
 
 ## Overview
@@ -56,6 +60,7 @@ The third exercise consists of SQL-based solutions for complex data retrieval an
 #### Solution Outline:
 - **SQL Scripts**: Each query is optimized for efficient data extraction and manipulation. These SQL scripts are located in the `sql_queries/` directory, with a test function `test_sql_queries()` provided for performance validation.
 
+<<<<<<< HEAD
 ## Getting Started
 
 To view, test, and modify the solutions in this repository:
@@ -81,3 +86,12 @@ To view, test, and modify the solutions in this repository:
 ---
 
 Thank you for checking out my solutions and Happy coding!
+=======
+---
+
+Thank you for checking out my solutions!
+
+---
+
+Happy coding, and feel free to experiment with the code!
+>>>>>>> deb6ada (Initial commit of Jupyter project, excluding data directory)
