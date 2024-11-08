@@ -80,8 +80,4 @@ To view, test, and modify the solutions in this repository:
 
 ---
 
-Thank you for checking out my solutions!
-
----
-
-Happy coding, and feel free to experiment with the code!
+Thank you for checking out my solutions and Happy coding!
