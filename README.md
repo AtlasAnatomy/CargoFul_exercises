@@ -1,4 +1,9 @@
-# <img src="logo.png" alt="CargoFul Logo" width="75"/> CargoFul Exercises Codebase
+<h1>
+<div style="display: flex; align-items: center;">
+    <img src="./Assets/logo_1.png" alt="CargoFul Logo" width="75" style="margin-right: 10px;">
+    <span style="font-size: 2em; font-weight: bold;">CargoFul Exercises Codebase</span>
+</div>
+</h1>
 
 Welcome to the **CargoFul Technical Interview Exercises** repository! This project contains code solutions to analytical exercises provided by CargoFul. Each solution is structured to be easily reviewed, tested, and improved for future use or enhancement.
 
