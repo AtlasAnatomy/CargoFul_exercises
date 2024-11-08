@@ -1,4 +1,4 @@
-table style=" width: 100%; border-collapse: collapse;">
+<table style=" width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: middle;">
       <img src="./Assets/logo_1.png" alt="CargoFul Logo" width="75">
