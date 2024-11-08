@@ -4,12 +4,12 @@
       <img src="./Assets/logo_1.png" alt="CargoFul Logo" width="75">
     </td>
     <td style="vertical-align: middle; padding-left: 10px;">
-      <h1 style="display: inline; font-size: 2em; font-weight: bold; margin: 0;">CargoFul Exercises Codebase</h1>
+      <h1 style="display: inline; font-size: 2em; font-weight: bold; margin: 0;">CargoFul Exercises</h1>
     </td>
   </tr>
 </table>
 
-Welcome to the **CargoFul Technical Interview Exercises** repository! This project contains code solutions to analytical exercises provided by CargoFul. Each solution is structured to be easily reviewed, tested, and improved for future use or enhancement.
+Welcome to the **CargoFul Technical Interview Exercises** repository! This repository contains my solutions to analytical exercises completed as part of the technical interview process with CargoFul.
 
 ## Table of Contents
 1. [Overview](#overview)
@@ -22,37 +22,41 @@ Welcome to the **CargoFul Technical Interview Exercises** repository! This proje
 
 ## Overview
 
-This repository demonstrates approaches to different types of data analysis and forecasting challenges. Each exercise has a clearly organized structure to facilitate code readability, testability, and easy modification for further experimentation or feature additions.
+This repository demonstrates my approaches to various data analysis and algorithm development challenges. Each exercise includes structured, self-contained code to allow for easy understanding and reproducibility of results.
 
 ## Exercises
 
 ### Exercise 1: Time Series Analysis and Forecasting
 
-This exercise focuses on analyzing and forecasting time series data, which is often used to project future values based on historical trends.
+This exercise involves analyzing and forecasting time series data for POS (points of sale) to predict future values for each location ID. The steps include data preprocessing, handling outliers, prioritizing specific POS IDs, and using a time series forecasting model.
 
 #### Solution Outline:
-1. **Dataset Assessment**: Inspect the dataset structure, check for missing values, and review key patterns.
-2. **POS IDs Prioritization**: Prioritize Point of Sale (POS) IDs based on forecast relevance. You can adjust prioritization criteria in the script under `pos_prioritization()`.
-3. **Outliers Cleaning**: Remove or adjust outliers to improve forecast accuracy. Parameters for outlier detection can be modified in the `clean_outliers()` function.
-4. **Cross-Validation**: Use cross-validation for model evaluation on different data subsets. Modify folds or methods within `cross_validation()` for enhanced evaluation.
-5. **Time Series Algorithm**: Apply a forecasting model that accounts for time-based trends and seasonality. Customize algorithm parameters or swap out the model in the `apply_forecasting_model()` function.
-6. **Algorithm Assessment**: Assess model accuracy using metrics like RMSE or MAE, which are configurable in the `evaluate_model()` function.
+1. **Dataset Quality Assessment**: Examine dataset structure, check for missing values, and review key patterns.
+2. **POS IDs Prioritization**: Prioritize Point of Sale (POS) IDs based on forecast relevance.
+3. **Outliers Cleaning**: Remove or adjust outliers to improve forecast accuracy.
+4. **Cross-Validation**: Use cross-validation to evaluate model performance.
+5. **Time Series Algorithm**: Apply a forecasting model to account for time-based trends and seasonality.
+6. **Algorithm Assessment**: Evaluate model accuracy using metrics like RMSE or MAE.
 
 ### Exercise 2: Spatial Analytics
 
-The goal of this exercise is to analyze spatial data, typically to understand geographic patterns or clusters. 
+This exercise focuses on spatial data analysis, aimed at uncovering geographic patterns through clustering and distance calculations.
 
 #### Solution Outline:
-1. **Spatial Clustering**: Cluster data points based on geographic proximity. Modify clustering parameters in `spatial_clustering()`.
-2. **Distance Calculations**: Calculate distances between locations for spatial analysis. Adjust distance metrics or thresholds in `calculate_distances()`.
-3. **Visualization**: Generate maps to visualize spatial patterns. Customize map settings and styles in `visualize_spatial_patterns()`.
+1. **Spatial Clustering**: Group data points based on geographic proximity.
+2. **Distance Calculations**: Calculate distances between locations for spatial analysis.
+3. **Visualization**: Generate maps to visualize spatial patterns.
 
 ### Exercise 3: SQL
 
-This exercise showcases SQL solutions for complex data retrieval and manipulation challenges. 
+The third exercise consists of SQL-based solutions for complex data retrieval and manipulation.
 
 #### Solution Outline:
-- **SQL Scripts**: Each query is designed for efficient data extraction and manipulation. Edit SQL scripts in the `sql_queries/` directory, and use `test_sql_queries()` to test the accuracy and performance of each query.
+- **SQL Scripts**: Each query is optimized for efficient data extraction and manipulation. These SQL scripts are located in the `sql_queries/` directory, with a test function `test_sql_queries()` provided for performance validation.
+
+---
+
+Thank you for checking out my solutions!
 
 ---
 
