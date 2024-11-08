@@ -40,6 +40,8 @@ This exercise involves analyzing and forecasting time series data for POS (point
 5. **Time Series Algorithm**: Apply a forecasting model to account for time-based trends and seasonality.
 6. **Algorithm Assessment**: Evaluate model accuracy using metrics like RMSE or MAE.
 
+View the Notebook directly via [nbviewer](https://nbviewer.org/github/AtlasAnatomy/CargoFul_exercises/blob/main/Time_series_POS.ipynb).
+
 ### Exercise 2: Spatial Analytics
 
 This exercise focuses on spatial data analysis, aimed at uncovering geographic patterns through clustering and distance calculations.
