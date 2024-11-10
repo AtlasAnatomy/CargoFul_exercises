@@ -77,9 +77,10 @@ This exercise focuses on spatial data analysis, aimed at uncovering geographic p
 
 ### Exercise 3: SQL
 
-The third exercise consists of SQL-based queries for data retrieval and manipulation of a database with costumers PII (Personally identifiable information), orders and shipments status.
+The third exercise focuses on SQL-based queries for retrieving and manipulating data in a database containing customers' PII (Personally Identifiable Information), orders, and shipment statuses.
 
-First of all, we'll start by creating the instance. To do this, the best way would be to upload a .csv or an .sql file. In our case we'll create the database from scratch and then populate it with the three tables.
+To begin, we will set up the database using Beekeeper Studio, with XAMPP enabling the local Apache server. The recommended approach is to either upload a .csv file or an .sql file to create the database. 
+For this exercise, however, we will create the database manually from scratch and populate it with the three tables.
 ```bash
 CREATE DATABASE cargoful;
 USE cargoful;
