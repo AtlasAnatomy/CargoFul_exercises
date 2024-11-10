@@ -181,6 +181,8 @@ GROUP BY
 ORDER BY
     total_amount DESC;
 ```
+The final query also uses a LEFT JOIN, grouping results by country to calculate the total sales amount and count the distinct items sold in each country. 
+The output is then sorted in descending order by total sales amount.
 
 <img src="./Assets/Question3.png" alt="Question #3">
 
