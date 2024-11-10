@@ -139,6 +139,9 @@ SELECT o.order_id, o.item, o.amount, c.first_name as name
 FROM Orders AS o
 LEFT JOIN Customers AS c ON o.customer_id = c.customer_id;
 ```
+This first query performs a basic LEFT JOIN on the Orders table's foreign key, customer_id, linking it to the Customers table by its primary key, customer_id. 
+Aliases are used to simplify and enhance the readability of the query. 
+The selected columns include order_id, item, amount, and the customer's full name.
 <img src="./Assets/Question1.png" alt="Question #1">
 
 #### Question 2:
