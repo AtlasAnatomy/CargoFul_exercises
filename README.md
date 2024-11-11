@@ -47,6 +47,10 @@ To view, test, and modify the solutions in this repository:
     ```bash
     pip install -r requirements.txt
     ```
+5. **Start Jupyter Lab**:
+    ```bash
+    jupyter lab
+    ```
 
 ---
 
@@ -65,6 +69,8 @@ This exercise involves analyzing and forecasting time series data for POS (point
 6. **Algorithm Assessment**: Evaluate model accuracy using metrics like Ljung-Box Q, Variance, RMSE and Log-Likelihood.
 
 View (partially) the Notebook directly via [nbviewer](https://nbviewer.org/github/AtlasAnatomy/CargoFul_exercises/blob/main/Time_series_POS.ipynb).
+
+Note: the nbviewer or Jupyter light are tools that can't use some features like widgets or visualize 3D plots. For a complete representation of the notebook, refer to the (#getting-started) section.
 
 ### Exercise 2: Spatial Analytics
 
