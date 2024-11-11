@@ -72,7 +72,7 @@ View (partially) the Notebook directly via [nbviewer](https://nbviewer.org/githu
 
 ![3D](./Assets/3D.gif)
 
-> **⚠️ NOTE:** <span style="color: red;">**Note**: nbviewer or Jupyter light are tools that can't use some features like widgets or visualize 3D plots. For a complete representation of the notebook, refer to the [Getting Started](#getting-started) section.</span>
+> **⚠️ NOTE:** <span style="color: red;">**Note**: nbviewer can't use some features like widgets or visualize 3D plots. For a complete representation of the notebook, refer to the [Getting Started](#getting-started) section. Once can also use JupyterLite that should support widgets and plugins.</span>
 
 ### Exercise 2: Spatial Analytics
 
