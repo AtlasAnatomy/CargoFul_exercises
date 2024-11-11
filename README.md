@@ -22,7 +22,7 @@ Welcome to the **CargoFul Technical Interview Exercises** repository! This repos
 
 ## Overview
 
-This repository demonstrates my approaches to various data analysis and algorithm development challenges. Each exercise includes structured, self-contained code to allow for easy understanding and reproducibility of results.
+This repository presents my solutions to various data analysis and algorithm challenges designed for technical interviews. Each exercise includes self-contained code and step-by-step explanations to facilitate easy understanding and reproducibility of the results.
 
 > **⚠️ NOTE:** <span style="color: red;">Due to privacy concerns, the CSV file containing historical POS data is not included in this repository and is ignored during upload. Collaborators should manually upload the required CSV file in the `DATA` directory to run the code successfully.</span>
 
