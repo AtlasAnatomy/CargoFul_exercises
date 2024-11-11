@@ -70,6 +70,8 @@ This exercise involves analyzing and forecasting time series data for POS (point
 
 View (partially) the Notebook directly via [nbviewer](https://nbviewer.org/github/AtlasAnatomy/CargoFul_exercises/blob/main/Time_series_POS.ipynb).
 
+![](https://github.com/CargoFul_exercises/Assets/3D.gif)
+
 Note: the nbviewer or Jupyter light are tools that can't use some features like widgets or visualize 3D plots. For a complete representation of the notebook, refer to the [Getting Started](#getting-started) section.
 
 ### Exercise 2: Spatial Analytics
