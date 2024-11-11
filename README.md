@@ -76,12 +76,8 @@ View (partially) the Notebook directly via [nbviewer](https://nbviewer.org/githu
 
 ### Exercise 2: Spatial Analytics
 
-This exercise focuses on spatial data analysis, aimed at uncovering geographic patterns through clustering and distance calculations.
-
-#### Solution Outline:
-1. **Spatial Clustering**: Group data points based on geographic proximity.
-2. **Distance Calculations**: Calculate distances between locations for spatial analysis.
-3. **Visualization**: Generate maps to visualize spatial patterns.
+def work_in_progress():
+  pass
 
 ### Exercise 3: SQL
 
