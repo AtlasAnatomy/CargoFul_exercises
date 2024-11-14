@@ -83,6 +83,8 @@ View (partially) the Notebook directly via [nbviewer](https://nbviewer.org/githu
 5. **Integration of OR Problems (TSP)**: Solve the **Traveling Salesman Problem (TSP)** for optimized routes between cluster centroids.
 6. **Clustering and TSP Evaluation**: Assess clustering quality using TSP metrics.
 
+<img src="./Assets/Exercise2.png" alt="Clustering">
+
 ### Exercise 3: SQL
 
 The third exercise focuses on SQL-based queries for retrieving and manipulating data in a database containing customers' PII (Personally Identifiable Information), orders, and shipment statuses.
