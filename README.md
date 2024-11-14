@@ -76,8 +76,12 @@ View (partially) the Notebook directly via [nbviewer](https://nbviewer.org/githu
 
 ### Exercise 2: Spatial Analytics
 
-def work_in_progress():
-  pass
+1. **Dataset Quality Assessment**: Inspect dataset structure, data types, etc. Visualize feature distributions and correlations.
+2. **Outlier Detection and Cleaning**: Detect outliers using **IQR** or **DBSCAN**. Handle outliers appropriately to improve clustering accuracy.
+3. **Clustering with K-means and Heuristic Methods**: Apply **K-means** with heuristics to respect domain-specific constraints during clustering.
+4. **Clustering Performance Evaluation with SSE**: Evaluate clustering performance using **SSE**.
+5. **Integration of OR Problems (TSP)**: Solve the **Traveling Salesman Problem (TSP)** for optimized routes between cluster centroids.
+6. **Clustering and TSP Evaluation**: Assess clustering quality using TSP metrics.
 
 ### Exercise 3: SQL
 
