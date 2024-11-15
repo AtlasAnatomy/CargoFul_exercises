@@ -92,6 +92,7 @@ The second exercise focuses on a clustering process for a last-mile delivery com
 ### Exercise 3: SQL
 
 The third exercise focuses on SQL-based queries for retrieving and manipulating data in a database containing customers' PII (Personally Identifiable Information), orders, and shipment statuses.
+The database is accessible online via [Database](https://www.programiz.com/sql/online-compiler/). Alternatively, it can be implemented locally using Beekeeper Studio and XAMPP to set up a local server environment.
 
 To begin, we will set up the database using Beekeeper Studio, with XAMPP enabling the local Apache server. The recommended approach is to either upload a .csv file or an .sql file to create the database. 
 For this exercise, however, we will create the database manually from scratch and populate it with the three tables.
