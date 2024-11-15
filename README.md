@@ -58,15 +58,15 @@ To view, test, and modify the solutions in this repository:
 
 ### Exercise 1: Time Series Analysis and Forecasting
 
-This exercise involves analyzing and forecasting time series data for POS (points of sale) to predict future values for each location ID. The steps include data preprocessing, handling outliers, prioritizing specific POS IDs, and using the auto-ARIMA forecasting model.
+This exercise involves analyzing and forecasting time series data for POS (points of sale) to predict future quantity values for each location ID. The steps include dataset quality assessment, handling outliers, prioritizing specific POS IDs, and using the auto-ARIMA forecasting model.
 
 #### Solution Steps:
-1. **Dataset Quality Assessment**: Examine dataset structure, check for missing values, and ordering, and review key patterns.
+1. **Dataset Quality Assessment**: Examine dataset structure.
 2. **POS IDs Ranking**: Prioritize POS IDs based on forecast relevance.
 3. **Outliers Cleaning**: Identify and adjust outliers to improve forecast accuracy.
-4. **Cross-Validation**: Use cross-validation to evaluate model performance.
-5. **ARIMA Algorithm**: Apply the auto-ARIMA forecasting model to account for hyperparameter tuning and AIC criterion.
-6. **Algorithm Assessment**: Evaluate model accuracy using metrics like Ljung-Box Q, Variance, RMSE and Log-Likelihood.
+4. **Cross-Validation**: Use cross-validation to assess the model's performance by splitting the dataset into training and validation sets across multiple iterations.
+5. **ARIMA Algorithm**: Apply the auto-ARIMA forecasting model to account for hyperparameter tuning.
+6. **Algorithm Assessment**: Evaluate model accuracy using metrics like AIC, Ljung-Box Q, Variance, RMSE and Log-Likelihood.
 
 View (partially) the Notebook directly via [nbviewer](https://nbviewer.org/github/AtlasAnatomy/CargoFul_exercises/blob/main/Time_series_POS.ipynb).
 
@@ -76,12 +76,14 @@ View (partially) the Notebook directly via [nbviewer](https://nbviewer.org/githu
 
 ### Exercise 2: Spatial Analytics
 
-1. **Dataset Quality Assessment**: Inspect dataset structure, data types, etc. Visualize feature distributions and correlations.
-2. **Outlier Detection and Cleaning**: Detect outliers using **IQR** or **DBSCAN**. Handle outliers appropriately to improve clustering accuracy.
-3. **Clustering with K-means and Heuristic Methods**: Apply **K-means** with heuristics to respect domain-specific constraints during clustering.
+The second exercise focuses on a clustering process for a last-mile delivery company that manages geographically distributed customers. In this exercise, we applied both machine learning models and operations research tools to clean the dataset, implement clustering algorithms, and evaluate their effectiveness.
+
+1. **Dataset Quality Assessment**: Inspect dataset structure and visualize both feature distributions and correlations.
+2. **Outlier Detection and Cleaning**: Detect outliers using **IQR** or **DBSCAN** and handle them to improve clustering accuracy.
+3. **Clustering with K-means and Heuristic Methods**: Apply **K-means** with heuristics to respect specific constraints during clustering.
 4. **Clustering Performance Evaluation with SSE**: Evaluate clustering performance using **SSE**.
 5. **Integration of OR Problems (TSP)**: Solve the **Traveling Salesman Problem (TSP)** for optimized routes between cluster centroids.
-6. **Clustering and TSP Evaluation**: Assess clustering quality using TSP metrics.
+6. **Clustering and TSP Evaluation**: Assess clustering quality using SSE and TSP metrics.
 
 <img src="./Assets/Exercise2.png" alt="Clustering">
 
