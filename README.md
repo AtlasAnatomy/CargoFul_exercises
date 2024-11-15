@@ -78,6 +78,8 @@ View (partially) the Notebook directly via [nbviewer](https://nbviewer.org/githu
 
 The second exercise focuses on a clustering process for a last-mile delivery company that manages geographically distributed customers. In this exercise, we applied both machine learning models and operations research tools to clean the dataset, implement clustering algorithms, and evaluate their effectiveness.
 
+<img src="./Assets/Exercise2.png" alt="Clustering">
+
 1. **Dataset Quality Assessment**: Inspect dataset structure and visualize both feature distributions and correlations.
 2. **Outlier Detection and Cleaning**: Detect outliers using **IQR** or **DBSCAN** and handle them to improve clustering accuracy.
 3. **Clustering with K-means and Heuristic Methods**: Apply **K-means** with heuristics to respect specific constraints during clustering.
@@ -85,7 +87,7 @@ The second exercise focuses on a clustering process for a last-mile delivery com
 5. **Integration of OR Problems (TSP)**: Solve the **Traveling Salesman Problem (TSP)** for optimized routes between cluster centroids.
 6. **Clustering and TSP Evaluation**: Assess clustering quality using SSE and TSP metrics.
 
-<img src="./Assets/Exercise2.png" alt="Clustering">
+<img src="./Assets/TSP_routes.png" alt="TSP">
 
 ### Exercise 3: SQL
 
