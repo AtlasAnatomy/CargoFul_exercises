@@ -68,7 +68,7 @@ This exercise involves analyzing and forecasting time series data for POS to pre
 5. **ARIMA Algorithm**: Apply the auto-ARIMA forecasting model to account for hyperparameter tuning.
 6. **Algorithm Assessment**: Evaluate model accuracy using metrics like AIC, Ljung-Box Q, Variance, RMSE and Log-Likelihood.
 
-View (partially) the Notebook directly via [nbviewer](https://nbviewer.org/github/AtlasAnatomy/CargoFul_exercises/blob/main/Time_series_POS.ipynb).
+View (partially) the Notebook directly via [nbviewer](https://nbviewer.org/github/AtlasAnatomy/Clustering_TSP_Project/blob/main/Time_series_POS.ipynb).
 
 ![3D](./Assets/3D.gif)
 
@@ -97,8 +97,8 @@ The database is accessible online via [Database](https://www.programiz.com/sql/o
 To begin, we will set up the database using Beekeeper Studio, with XAMPP enabling the local Apache server. The recommended approach is to either upload a .csv file or an .sql file to create the database. 
 For this exercise, however, we will create the database manually from scratch and populate it with the three tables.
 ```bash
-CREATE DATABASE cargoful;
-USE cargoful;
+CREATE DATABASE Clustering_TSP_Project;
+USE Clustering_TSP_Project;
 
 CREATE TABLE Customers (
     customer_id INT PRIMARY KEY,
