@@ -4,12 +4,12 @@
       <img src="./Assets/logo_1.png" alt="CargoFul Logo" width="75">
     </td>
     <td style="vertical-align: middle; padding-left: 10px;">
-      <h1 style="display: inline; font-size: 2em; font-weight: bold; margin: 0;">CargoFul Exercises</h1>
+      <h1 style="display: inline; font-size: 2em; font-weight: bold; margin: 0;">Clustering + TSP Project</h1>
     </td>
   </tr>
 </table>
 
-Welcome to the **CargoFul Technical Interview Exercises** repository! This repository contains my solutions to analytical exercises completed as part of the technical interview process with CargoFul.
+Welcome to the **Clustering + TSP Project** repository! This repository contains my solutions to analytical problems related to POS (points of sale) clustering and TSP routing.
 
 ## Table of Contents
 1. [Overview](#overview)
@@ -58,7 +58,7 @@ To view, test, and modify the solutions in this repository:
 
 ### Exercise 1: Time Series Analysis and Forecasting
 
-This exercise involves analyzing and forecasting time series data for POS (points of sale) to predict future quantity values for each location ID. The steps include dataset quality assessment, handling outliers, prioritizing specific POS IDs, and using the auto-ARIMA forecasting model.
+This exercise involves analyzing and forecasting time series data for POS to predict future quantity values for each location ID. The steps include dataset quality assessment, handling outliers, prioritizing specific POS IDs, and using the auto-ARIMA forecasting model.
 
 #### Solution Steps:
 1. **Dataset Quality Assessment**: Examine dataset structure.
