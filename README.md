@@ -32,11 +32,11 @@ To view, test, and modify the solutions in this repository:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/CargoFul_exercises.git
+    git clone https://github.com/yourusername/Clustering_TSP_Project.git
     ```
 2. **Navigate to the project directory**:
     ```bash
-    cd CargoFul_exercises
+    cd Clustering_TSP_Project
     ```
 3. **Create a Virtual Environment**:
     ```bash
