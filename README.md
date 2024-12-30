@@ -1,7 +1,7 @@
 <table style=" width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: middle;">
-      <img src="./Assets/logo_1.png" alt="CargoFul Logo" width="75">
+      <img src="./Assets/logo-1.png" alt="Logo" width="75">
     </td>
     <td style="vertical-align: middle; padding-left: 10px;">
       <h1 style="display: inline; font-size: 2em; font-weight: bold; margin: 0;">Clustering + TSP Project</h1>
